@@ -97,7 +97,7 @@
         <xalan.bundle.version>2.7.2_3</xalan.bundle.version>
         <xalan-serializer.bundle.version>2.7.2_1</xalan-serializer.bundle.version>
         <jna.version>4.5.0</jna.version>
-        <httpclient-osgi.version>4.5.5</httpclient-osgi.version>
+        <httpclient-osgi.version>4.5.13</httpclient-osgi.version>
         <httpcore-osgi.version>4.4.9</httpcore-osgi.version>
 
         <node.version>v14.20.0</node.version>
